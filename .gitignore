@@ -1,2 +1,3 @@
 annclassification/logs/
 venv/
+*.env
